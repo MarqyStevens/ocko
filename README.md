@@ -67,3 +67,9 @@ A highly polished, interactive terminal-based implementation of the traditional 
 
 * **Python 3.x**
 * A modern terminal emulator that supports **Unicode character set** and **ANSI escape color codes** (standard on Linux/macOS).
+
+---
+
+## 📄 License / Licencia
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details. / Tento projekt je licencovaný pod **MIT Licenciou** - podrobnosti nájdete v súbore [LICENSE](LICENSE).
